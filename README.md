@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<h1 align="center">~ 💫 ╰☆☆ աɛʟƈօʍɛ ȶօ ʍʏ քʀօʄɨʟɛ ☆☆╮ ✨ 💜
+<h1 align="center">~ 💫 ╰☆☆ աɛʟƈօʍɛ ȶօ ʍʏ քʀօʄɨʟɛ
 <div align="center">
 <a href="https://github.com/yashcybrot/"><img src="https://i.ibb.co/Mc77hKr/IMG-20220228-WA0024.jpg" width="170" height="170" />
 
