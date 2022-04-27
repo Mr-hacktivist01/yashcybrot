@@ -1,5 +1,10 @@
 ### Hi 👋
 
+<h1 align="center">~ 💫 ╰☆☆ աɛʟƈօʍɛ ȶօ ʍʏ քʀօʄɨʟɛ ☆☆╮ ✨ 💜
+<div align="center">
+<a href="https://github.com/yashcybrot/"><img src="https://i.ibb.co/Mc77hKr/IMG-20220228-WA0024.jpg" width="170" height="170" />
+
+
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashcybrot&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
     
