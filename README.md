@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**yashcybrot/yashcybrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashcybrot&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
+    
+  <div align="center">
+       
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashcybrot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+ 
 
-Here are some ideas to get you started:
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Imi0xFyoBmIBUSc7C947TL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
