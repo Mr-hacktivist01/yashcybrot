@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=꧁𒆜ᴍʀ.ʜᴀᴄᴋᴛɪᴠɪsᴛ𒆜꧂;IS+ALWAYS+HERE+FOR+YOUR+HELP+."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=꧁𒆜ᴍʀ.ʜᴀᴄᴋᴛɪᴠɪsᴛ𒆜꧂;IS+ALWAYS+HERE+FOR+YOUR+HELP."
             alt="Typing SVG"
         />
     </a>
