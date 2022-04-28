@@ -42,9 +42,9 @@
 <details>
 <summary>Click Here</summary>
 
-![Kaoi][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=Wizard-ser&theme=buefy)](https://github.com/yashcybrot/Wizard-ser)
+Wizard-ser[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=Wizard-ser&theme=buefy)](https://github.com/yashcybrot/Wizard-ser)
 
-![Chitoge][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=DogeBot3&theme=buefy)](https://github.com/yashcybrot/DogeBot3)
+Dogebot3[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=DogeBot3&theme=buefy)](https://github.com/yashcybrot/DogeBot3)
 
-![Wizard-ser][![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=kaoi&theme=buefy)](https://github.com/yashcybrot/kaoi)
+kaoi[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashcybrot&repo=kaoi&theme=buefy)](https://github.com/yashcybrot/kaoi)
 
